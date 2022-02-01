@@ -1,0 +1,6 @@
+# Timesheet Changelog
+
+## [3.8]
+
+### Changed
+- Updated house call per hour rate from 15 to 17
