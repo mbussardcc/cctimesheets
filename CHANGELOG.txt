@@ -1,5 +1,10 @@
 # Timesheet Changelog
 
+## [3.8.1]
+
+### Fixed
+- Set print area so that it no longer prints a second page with the version number on it.
+
 ## [3.8]
 
 ### Changed
