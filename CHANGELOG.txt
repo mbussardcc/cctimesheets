@@ -1,5 +1,12 @@
 # Timesheet Changelog
 
+## [3.9]
+
+### Changed
+- Added remote for MSP clients column. The hours for this column are only for MSP clients and the hours directly reflect how many hours you are billing. So, if you bill 2 hours then you enter 2 hours in the timesheet.
+- Added Total Remote which is all remote hours multipied by 2.5 which is the bonus per hour for remote MSP work.
+- Changed print area to accomidate the added columns.
+
 ## [3.8.1]
 
 ### Fixed
