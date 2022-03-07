@@ -1,3 +1,5 @@
 # Computer Concepts Timesheet
 
-Fine. Here you go.
+The one and only glorious Computer Concepts timesheet.
+
+Created by yours truly.
