@@ -1,5 +1,12 @@
 # Timesheet Changelog
 
+## [3.9.2]
+
+### Fixed
+
+- Corrected version number within the timesheet.
+- Added link to github release.
+
 ## [3.9.1]
 
 ### Fixed
