@@ -1,5 +1,13 @@
 # Timesheet Changelog
 
+## [3.9.1]
+
+### Fixed
+
+- Removed locked protection from "Remote MSP" data entry cells to allow time entry when the worksheet is protected.
+- Formated "Remote MSP" data entry cells as number with 2 decimal points.
+- Corrected text alignment on various cells.
+
 ## [3.9]
 
 ### Changed
