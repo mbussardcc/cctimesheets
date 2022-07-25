@@ -1,5 +1,12 @@
 # Timesheet Changelog
 
+## [3.9.3]
+
+### Changed
+
+- Updated housecall bonus rate to $22 per hour
+- Updated remote bonus rate to $5 per hour
+
 ## [3.9.2]
 
 ### Fixed
